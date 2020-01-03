@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: edi.recycling.api
+---
+testFramework: kotlintest
+sourceLanguage: kotlin

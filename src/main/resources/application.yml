@@ -1,0 +1,9 @@
+micronaut:
+  application:
+    name: edi-recycling-api
+  server:
+    cors:
+      enabled: true
+vars:
+  json_name: edi-recycling.json
+  bucket_name: environment-app
